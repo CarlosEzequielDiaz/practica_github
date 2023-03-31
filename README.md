@@ -1,4 +1,3 @@
 # practica_github
-
-
-### Yndrid Quijada
+ILICH
+yndrid
